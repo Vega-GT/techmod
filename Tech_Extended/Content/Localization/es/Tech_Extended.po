@@ -1,0 +1,127 @@
+﻿# Tech_Extended Spanish translation.
+# Copyright Studio Wildcard, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Tech_Extended\n"
+"POT-Creation-Date: 2025-06-15 02:52\n"
+"PO-Revision-Date: 2025-06-15 02:52\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	940523119
+#. SourceLocation:	/Tech_Extended/Structures/Infuser_Table/StorageBox_InfuserTable_TE.StorageBox_InfuserTable_TE.NewVariables(0).NewVariables.Category
+#: /Tech_Extended/Structures/Infuser_Table/StorageBox_InfuserTable_TE.StorageBox_InfuserTable_TE.NewVariables(0).NewVariables.Category
+msgctxt "KismetSchema,940523119"
+msgid "Default"
+msgstr ""
+
+#. Key:	940523119
+#. SourceLocation:	/Tech_Extended/Structures/Infuser_Table/StorageBox_InfuserTable_TE.StorageBox_InfuserTable_TE_C:SimpleConstructionScript_0.SCS_Node_1.CategoryName
+#: /Tech_Extended/Structures/Infuser_Table/StorageBox_InfuserTable_TE.StorageBox_InfuserTable_TE_C:SimpleConstructionScript_0.SCS_Node_1.CategoryName
+msgctxt "GraphLiteral,940523119"
+msgid "Default"
+msgstr ""
+
+#. Key:	940523119
+#. SourceLocation:	/Tech_Extended/Structures/Infuser_Table/StorageBox_InfuserTable_TE.StorageBox_InfuserTable_TE_C:SimpleConstructionScript_0.SCS_Node_2.CategoryName
+#: /Tech_Extended/Structures/Infuser_Table/StorageBox_InfuserTable_TE.StorageBox_InfuserTable_TE_C:SimpleConstructionScript_0.SCS_Node_2.CategoryName
+msgctxt "SCS,940523119"
+msgid "Default"
+msgstr ""
+
+#. Key:	1124302097
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,1124302097"
+msgid "8: Flesh"
+msgstr ""
+
+#. Key:	2064683932
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2064683932"
+msgid "2: Dirt"
+msgstr ""
+
+#. Key:	3587209621
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_10.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_10.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,3587209621"
+msgid "10: Rock"
+msgstr ""
+
+#. Key:	1348125568
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_11.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_11.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,1348125568"
+msgid "11: Sand"
+msgstr ""
+
+#. Key:	2920719161
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_13.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_13.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2920719161"
+msgid "12: Snow"
+msgstr ""
+
+#. Key:	4147035396
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,4147035396"
+msgid "3: Water"
+msgstr ""
+
+#. Key:	416663131
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_3.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_3.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,416663131"
+msgid "4: Metal"
+msgstr ""
+
+#. Key:	3899407398
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_4.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_4.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,3899407398"
+msgid "5: Wood"
+msgstr ""
+
+#. Key:	3464775400
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_5.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_5.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,3464775400"
+msgid "6: Grass"
+msgstr ""
+
+#. Key:	4194012023
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_6.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_6.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,4194012023"
+msgid "7: Glass"
+msgstr ""
+
+#. Key:	456269855
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_7.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_7.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,456269855"
+msgid "1: Concrete"
+msgstr ""
+
+#. Key:	2581053416
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_8.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_8.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2581053416"
+msgid "9: Leaves"
+msgstr ""
+
+#. Key:	2229490321
+#. SourceLocation:	/Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_9.NewTextRenderComponent.Text
+#: /Tech_Extended/TestMapArea_BlankMod.TestMapArea_BlankMod:PersistentLevel.TextRenderActor_9.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2229490321"
+msgid "0: Unknown"
+msgstr ""
+
